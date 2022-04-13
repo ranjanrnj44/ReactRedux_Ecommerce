@@ -1,0 +1,11 @@
+.card-cover{
+    height: 93.6vh;
+}
+.card-img-overlay{
+    background-image: url('../../images/fashion2022.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    max-width: 100%;
+    height: 100%;
+}
